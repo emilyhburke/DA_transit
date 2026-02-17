@@ -61,4 +61,4 @@ Operations teams rely on documentation, compliance tracking, and structured chec
 ## Author
 **Emily Burke**  
 B.Sc. Statistics, Queen’s University  
-LinkedIn: https://www.linkedin.com/in/emilyh-burke
+
