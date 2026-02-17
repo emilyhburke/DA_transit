@@ -48,7 +48,7 @@ Operations teams rely on documentation, compliance tracking, and structured chec
 ## Files Included
 - `Transport_Project.xlsx` — risk register and mitigation tracker  
 - `Transit_Risk_Dashboard.pbix` — Power BI dashboard file (if included)  
-- `/Transit_Visual1, Transit_Visual2/` — preview images of the tracker + dashboard  
+- `Transit_Visual1, Transit_Visual2` — preview images of the tracker + dashboard  
 
 ---
 
