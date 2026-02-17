@@ -30,7 +30,7 @@ All data is **synthetic** and created solely for portfolio/demo purposes.
 
 ---
 
-## Key Insights (From the Dashboard)
+## Key Insights 
 
 > *Note: Insights are based on synthetic demo data designed to reflect realistic operational risk patterns.*
 
@@ -42,7 +42,7 @@ All data is **synthetic** and created solely for portfolio/demo purposes.
 
 ---
 
-## Recommendations (Process Improvements)
+## Process Improvements
 
 - **Standardize required fields** (Owner, Review Date, Risk Category, Severity) using validation rules to reduce incomplete entries and improve reporting accuracy.
 - **Implement an “Overdue Escalation” workflow** (e.g., weekly review or automated flagging) to prevent overdue actions from accumulating unnoticed.
