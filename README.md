@@ -30,6 +30,43 @@ All data is **synthetic** and created solely for portfolio/demo purposes.
 
 ---
 
+## Key Insights (From the Dashboard)
+
+> *Note: Insights are based on synthetic demo data designed to reflect realistic operational risk patterns.*
+
+- **Overdue mitigation actions are concentrated in a small number of high-severity risks**, suggesting bottlenecks in follow-through rather than a lack of tracking.
+- **A recurring set of risk categories contributes disproportionately to residual risk**, indicating that certain operational areas require targeted process controls.
+- **Risks with unclear ownership or missing review dates are more likely to remain open longer**, reducing accountability and making status reporting less reliable.
+- **Mitigation actions with long target timelines are more likely to become overdue**, implying a need for milestone-based tracking rather than single due dates.
+- **Risk status changes are not evenly distributed over time**, which suggests updates may be occurring in batches rather than through continuous review.
+
+---
+
+## Recommendations (Process Improvements)
+
+- **Standardize required fields** (Owner, Review Date, Risk Category, Severity) using validation rules to reduce incomplete entries and improve reporting accuracy.
+- **Implement an “Overdue Escalation” workflow** (e.g., weekly review or automated flagging) to prevent overdue actions from accumulating unnoticed.
+- **Introduce a “High Residual Risk Review” checklist** for risks above a defined threshold to ensure consistent mitigation planning and sign-off.
+- **Add milestone tracking for long-term mitigation actions** (e.g., 25% / 50% / 75% checkpoints) to reduce missed deadlines and improve visibility.
+- **Create a monthly executive summary view** that highlights:
+  - Top residual risks  
+  - Overdue actions by owner  
+  - Risks without review dates  
+  - Category-level trends  
+
+---
+
+## Data Quality Notes
+
+- All fields are standardized for consistent entry (category, severity, likelihood, owner, status, review date).
+- Built-in logic supports:
+  - overdue flagging  
+  - consistent filtering  
+  - audit-friendly review tracking  
+- All data is synthetic and intended for portfolio/demo purposes only.
+
+---
+
 ## Why This Project
 Operations teams rely on documentation, compliance tracking, and structured checklists to ensure consistency across multiple sites. This project reflects that workflow through:
 - portfolio visibility  
